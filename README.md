@@ -9,14 +9,14 @@
   <a href="https://github.com/hariom20-vk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white" /></a>
 </p>
 ---
-## 🚀 About Me
+# 🚀 About Me
 🎓 CSE (AI/ML) student at Jaipur National University, Jaipur, Rajasthan
 💻 Comfortable across the stack — from DSA fundamentals in C/C++ to full-stack web apps and AI/ML projects
 🧠 Currently sharpening problem-solving skills through consistent DSA practice
 🛠️ I like turning ideas into working products, not just prototypes
 📫 Open to internships, collaborations, and interesting side projects
 ---
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/AI%2FML-2DD4BF?style=for-the-badge" />
 </p>
 ---
-## 📌 Featured Projects
+# 📌 Featured Projects
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -58,7 +58,7 @@
   </tr>
 </table>
 ---
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hariom20-vk\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&count\_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariom20-vk\&layout=compact\&theme=tokyonight\&hide\_border=true" height="165" />
