@@ -63,15 +63,18 @@ Data Structures & Algorithms · Problem Solving · Competitive Programming
 </table>
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariom20-vk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariom20-vk&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariom20-vk&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hariom20-vk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hariom's GitHub Stats" />
 </p>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos or connect above!</i></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hariom20-vk&theme=tokyonight&hide_border=true" alt="Hariom's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariom20-vk&layout=compact&theme=tokyonight&hide_border=true" alt="Hariom's Top Languages" />
+</p>
 
 ## 📫 Connect With Me
 <p align="center">
