@@ -65,15 +65,7 @@ Data Structures & Algorithms · Problem Solving · Competitive Programming
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariom20-vk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hariom's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=hariom20-vk&theme=tokyonight&hide_border=true" alt="Hariom's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariom20-vk&layout=compact&theme=tokyonight&hide_border=true" alt="Hariom's Top Languages" />
 </p>
 
 ## 📫 Connect With Me
