@@ -8,14 +8,14 @@
   <a href="mailto:REPLACE-WITH-YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-2DD4BF?style=for-the-badge\&logo=gmail\&logoColor=white" /></a>
   <a href="https://github.com/hariom20-vk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white" /></a>
 </p>
----
+
 # 🚀 About Me
 🎓 CSE (AI/ML) student at Jaipur National University, Jaipur, Rajasthan
 💻 Comfortable across the stack — from DSA fundamentals in C/C++ to full-stack web apps and AI/ML projects
 🧠 Currently sharpening problem-solving skills through consistent DSA practice
 🛠️ I like turning ideas into working products, not just prototypes
 📫 Open to internships, collaborations, and interesting side projects
----
+
 # 🧰 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white" />
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2DD4BF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%2FML-2DD4BF?style=for-the-badge" />
 </p>
----
+
 # 📌 Featured Projects
 <table>
   <tr>
@@ -57,7 +57,7 @@
     </td>
   </tr>
 </table>
----
+
 # 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hariom20-vk\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&count\_private=true" height="165" />
